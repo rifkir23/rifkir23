@@ -10,7 +10,7 @@ Currently leading backend at [Rekosistem](https://rekosistem.com) — managing 2
 Go          ████████████████████  Expert
 PHP         ████████████████░░░░  Senior
 Node.js/TS  ████████████░░░░░░░░  Intermediate
-Python      ████████░░░░░░░░░░░░  Learning (AI/ML focus)
+Python      ████████████░░░░░░░░  Intermediate (AI/ML focus)
 ```
 
 **Backend & APIs:** Go (Gin), Node.js, PHP (Laravel), FastAPI, REST, gRPC  
@@ -30,7 +30,7 @@ Python      ████████░░░░░░░░░░░░  Learni
 - Building AI-powered products ([finary.id](https://finary.id) — finance bot with NLP + Vision OCR)
 - Cloud infrastructure & platform engineering
 - Open source contributions in AI/dev-tools space
-- Learning Python deeply for AI/ML applications
+- Deepening Python skills for AI/ML and backend applications
 
 ### Get in Touch
 
